@@ -1,5 +1,9 @@
 <h1>Active Directory Home Lab</h1>
 
 <h2>Description</h2>
-In this lab we're going to walk through how to create an Active Directory home lab Environment using Oracle Virtual Box. Configuring and running this lab will definitely help develop your understanding of how active directory and windows networking works, so I'd highly recommned running through it a couple times, ask questions where stuff is unclear, and eventually try to build it on your own without wathcing. Please let me know if you have any questions!
+In this lab I utilized Oracle Virtual Box to create an Active Directory home lab to better understand the inner workings of active directories and to expand on my knowledge of Window's networking.
 
+<h3>Step 1 - Download Oracle Virtual Box</h3>
+Link: https://www.virtualbox.org/wiki/Downloads
+Make sure to pick the correct OS and following the Oracle VM download, make sure to download the Extension Pack under "VirtualBox 7.0.14 Oracle VM VirtualBox Extension Pack"
+![image](https://github.com/amolinaro23/ActiveDirectoryLab/assets/164687651/1c7677dc-3372-4e4b-829d-c493928e5dde)
