@@ -176,6 +176,22 @@ Link: https://www.tenforums.com/tutorials/95922-generic-product-keys-install-win
 
 ![image](https://github.com/amolinaro23/ActiveDirectoryLab/assets/164687651/bb225fbf-3a99-4ed3-96c7-c66d1ffdb705)
 
+Should you run into problems with internet connection, run the command line and use the ipconfig command. For example, I noticed I did not have a default gateway.  
+
+![image](https://github.com/amolinaro23/ActiveDirectoryLab/assets/164687651/8b4f2ac2-e077-4848-aa14-20810d760696)
+
+I went back to Server Manager and then Tools, and selected DHCP. I went to IPv4 Server Options and went to Configure Options and had to add a Router and the IP address of the DC. 
+
+![image](https://github.com/amolinaro23/ActiveDirectoryLab/assets/164687651/de25f77c-d0e5-4957-aea6-14e9e8fc9332)
+
+I then clicked on the domain server and restarted it and refreshed the IPv4. 
+
+
+
+
+
+
+
 <h3>Step 12 - </h3>
 
 
