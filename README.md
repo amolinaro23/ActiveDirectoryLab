@@ -170,10 +170,12 @@ Now, click run and you will see the names begin to populate PowerShell.
 
 <h3>Step 11 - Create the Windows 10 VirtualBox</h3>
 
-To set up our Client VM, we will essentially follow the exact same steps as when we created the Domain Controller. However, we are installing Windows 10 on this VM, so make sure to select the proper ISO file. If you run into trouble regarding the Product Key for the Windows10 machine, I used the following link from Microsoft for generic keys. I used the VK7JG-NPHTM-C97JM-9MPGT-3V66T key. 
+To set up our Client VM, we will essentially follow the exact same steps as when we created the Domain Controller. However, we are installing Windows 10 on this VM, so make sure to select the proper ISO file. If you run into trouble regarding the Product Key for the Windows10 machine, I used the following link from Microsoft for generic keys. I used the VK7JG-NPHTM-C97JM-9MPGT-3V66T key and it worked fine. The only difference, is once you have created the Client1 VM, go to settings on Oracle VM and under 'Network' change the Network Adapter to Internal Network. 
 
 Link: https://www.tenforums.com/tutorials/95922-generic-product-keys-install-windows-10-editions.html
 
+![image](https://github.com/amolinaro23/ActiveDirectoryLab/assets/164687651/bb225fbf-3a99-4ed3-96c7-c66d1ffdb705)
 
+<h3>Step 12 - </h3>
 
 
